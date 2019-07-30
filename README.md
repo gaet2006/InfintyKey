@@ -7,7 +7,7 @@ SOLARIZED-MAN (Solarized Dark Theme and https://github.com/zlsun/solarized-man),
 
 ---
 
-You also need to install `pygmentize`, `colorls`, and any Nerd Font (https://www.nerdfonts.com/) 
+You also need to install `pygmentize`, `colorls`, `tmux`, and any Nerd Font (https://www.nerdfonts.com/) 
 
 ---
 
